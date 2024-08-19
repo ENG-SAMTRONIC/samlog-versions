@@ -1,11 +1,11 @@
 {
     "latest": "2.0.1",
-    "date": "2024-08-13",
-    "link": "https://raw.githubusercontent.com/ENG-SAMTRONIC/samlog-versions/main/updates.json",
+    "date": "2024-08-19",
+    "link": "",
     "msg": {
         "pt-BR": "Nova versão do SamLOG está disponível. Entre em contato com a Samtronic para maiores informações.",
         "en": "",
         "es": ""
     } ,
-    "updatable": ["2.0.1"]
+    "updatable": ["2.0.0"]
 }
