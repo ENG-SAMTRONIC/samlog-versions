@@ -1,11 +1,12 @@
 {
-    "latest": "2.0.1",
-    "date": "2024-08-19",
+    "latest": "2.0.4",
+    "date": "2025-11-18",
     "link": "",
     "msg": {
         "pt-BR": "Nova versão do SamLOG-II®️ está disponível. Entre em contato com a Samtronic®️ para maiores informações.",
         "en": "New version of SamLOG-II®️ is available. Contact Samtronic®️ for more information.",
         "es": "Nueva versión de SamLOG-II®️ está disponible. Póngase en contacto con Samtronic®️ para obtener más información."
     } ,
-    "updatable": ["2.0.0"]
+    "updatable": ["2.0.1", "2.0.2", "2.0.3", "2.0.4-beta.1", "2.0.4-beta.0", "2.0.4-alpha.1"]
+
 }
